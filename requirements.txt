@@ -1,0 +1,12 @@
+pandas
+numpy
+marshmallow
+dataclasses
+scikit-learn
+statsmodels
+xgboost
+catboost
+tensorboard
+pyarrow
+bayesian-optimization
+scikit-optimize 
